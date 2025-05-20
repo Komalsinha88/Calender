@@ -29,14 +29,14 @@ A sleek, responsive calendar web app built with **React**, **Vite**, **Tailwind 
 
 ---
 
-#🛠️ Technologies Used
-##⚛️ React (with Vite)
-##🎨 Tailwind CSS
-##📅 dayjs (for date handling)
-##🧩 TypeScript
+# 🛠️ Technologies Used
+## ⚛️ React (with Vite)
+## 🎨 Tailwind CSS
+## 📅 dayjs (for date handling)
+## 🧩 TypeScript
 
 
-#👥 Team & Contributors
-##Developer: Komal Sinha
-##Submitted To: Survey Sparrow
-##Institute: D.Y. Patil University, Pune
+# 👥 Team & Contributors
+## Developer: Komal Sinha
+## Submitted To: Survey Sparrow
+## Institute: D.Y. Patil University, Pune

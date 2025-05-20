@@ -29,42 +29,14 @@ A sleek, responsive calendar web app built with **React**, **Vite**, **Tailwind 
 
 ---
 
-## 📁 Project Structure
+#🛠️ Technologies Used
+##⚛️ React (with Vite)
+##🎨 Tailwind CSS
+##📅 dayjs (for date handling)
+##🧩 TypeScript
 
-📦 calendar-app
-├── public/
-├── src/
-│ ├── components/
-│ │ └── Calendar.tsx
-│ │ └── EventCard.tsx
-│ ├── data/
-│ │ └── events.json
-│ ├── App.tsx
-│ └── main.tsx
-├── index.html
-├── tailwind.config.js
-├── vite.config.ts
-└── README.md
 
-🛠️ Technologies Used
-⚛️ React (with Vite)
-🎨 Tailwind CSS
-📅 dayjs (for date handling)
-🧩 TypeScript
-
-📦 Installation & Setup
-# Clone the repo
-git clone
-
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
-
-👥 Team & Contributors
-Developer: Komal Sinha
-
-Submitted To: Survey Sparrow
-
-Institute: D.Y. Patil University, Pune
+#👥 Team & Contributors
+##Developer: Komal Sinha
+##Submitted To: Survey Sparrow
+##Institute: D.Y. Patil University, Pune

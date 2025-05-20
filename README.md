@@ -4,8 +4,9 @@ A sleek, responsive calendar web app built with **React**, **Vite**, **Tailwind 
 
 ## 🚀 Demo
 
-🔗  ![WhatsApp Image 2025-05-20 at 22 04 55_38eb2d3e](https://github.com/user-attachments/assets/fa17bbd6-ce1e-4687-bb7d-1be565697843)
-    ![WhatsApp Image 2025-05-20 at 22 04 01_d62cab8a](https://github.com/user-attachments/assets/1bedc780-6d49-4b98-9398-98dab95a2cd3)
+🔗![WhatsApp Image 2025-05-20 at 22 04 01_d62cab8a](https://github.com/user-attachments/assets/1bedc780-6d49-4b98-9398-98dab95a2cd3)  
+  ![WhatsApp Image 2025-05-20 at 22 04 55_38eb2d3e](https://github.com/user-attachments/assets/fa17bbd6-ce1e-4687-bb7d-1be565697843)
+
 
 ---
 
